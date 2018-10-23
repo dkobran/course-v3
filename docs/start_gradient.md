@@ -4,7 +4,7 @@ sidebar: home_sidebar
 ---
 # Fast.ai Deep Learning Course v3 on Gradient° Notebooks
 
-<img alt="" src="/images/gradient/gradientFastAIv3.png" class="screenshot">
+<img alt="" src="docs/images/gradient/gradientFastAIv3.png" class="screenshot">
 
 This is a quick guide to starting v3 of the Fast.ai course. With [Gradient](https://www.paperspace.com/gradient), you get access to a Jupyter Notebook instance without complicated installs or configuration in less than 2 minutes.
 
